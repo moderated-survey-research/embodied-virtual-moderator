@@ -1,0 +1,81 @@
+,id,variant,type,form,age,gender,race,education,income,computerUsage,AIattitude,AIinteraction,english,att1,att2,att3,avatar,violations,duration
+0,34,bfi2s_avatar,avatar,bfi,18-24,Female,White,Undergraduate degree,"£10,000 - £19,999",At least once a day,Somewhat positive,Not sure,Native or bilingual speaker,True,True,True,SilasHR_public,3,27.506221166666666
+1,8,bfi2s_classic,classic,bfi,18-24,Male,Other,High school diploma,"£0 - £9,999",At least once a day,Very positive,Yes,Native or bilingual speaker,True,True,True,,0,28.171914949999998
+2,33,bfi2s_classic,classic,bfi,18-24,Female,White,Undergraduate degree,"£20,000 - £29,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,0,27.912783816666668
+3,11,bfi2s_avatar,avatar,bfi,18-24,Male,White,Graduate degree,"£40,000 - £49,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,False,True,SilasHR_public,6,22.452281083333332
+4,9,bfi2s_classic,classic,bfi,18-24,Male,Black,High school diploma,No income,At least once a day,Somewhat negative,Yes,Native or bilingual speaker,True,True,True,,0,32.13393785
+5,65,bfi2s_classic,classic,bfi,25-34,Female,White,Graduate degree,"£20,000 - £29,999",At least once a day,Neutral,Yes,Native or bilingual speaker,True,False,True,,1,30.83344575
+6,35,bfi2s_classic,classic,bfi,18-24,Female,White,High school diploma,"£10,000 - £19,999",Multiple times a day,Somewhat positive,Yes,Intermediate,True,True,True,,2,46.27777258333333
+7,69,bfi2s_avatar,avatar,bfi,25-34,Male,Black,Undergraduate degree,"£75,000 - £100,000",Multiple times a day,Somewhat positive,Yes,Advanced,True,True,True,Judy_Teacher_Sitting_public,3,37.905136549999995
+8,80,cfq_avatar,avatar,cfq,25-34,Male,White,Graduate degree,"£75,000 - £100,000",Multiple times a day,Somewhat negative,Yes,Native or bilingual speaker,True,True,True,Shawn_Therapist_public,0,28.239469783333334
+9,31,bfi2s_avatar,avatar,bfi,18-24,Female,White,High school diploma,"£0 - £9,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,June_HR_public,5,33.40018353333333
+10,72,cfq_avatar,avatar,cfq,18-24,Female,Asian or Pacific Islander,Secondary education,"£0 - £9,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,Ann_Therapist_public,5,28.237660166666668
+11,39,bfi2s_classic,classic,bfi,25-34,Male,Black,Graduate degree,"£50,000 - £74,999",Multiple times a day,Very positive,No,Advanced,True,True,True,,2,41.538553099999994
+12,45,bfi2s_classic,classic,bfi,25-34,Female,Black,Undergraduate degree,"£40,000 - £49,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,True,True,,0,17.379601533333336
+13,49,cfq_classic,classic,cfq,25-34,Male,White,High school diploma,"£10,000 - £19,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,,1,17.481631733333334
+14,71,cfq_avatar,avatar,cfq,18-24,Male,White,Technical/community college,"£10,000 - £19,999",Multiple times a day,Somewhat positive,Yes,Intermediate,True,True,True,SilasHR_public,2,27.17207361666667
+15,54,cfq_classic,classic,cfq,18-24,Male,White,High school diploma,"£0 - £9,999",Multiple times a day,Somewhat negative,Yes,Native or bilingual speaker,True,True,True,,2,27.36282955
+16,42,cfq_classic,classic,cfq,18-24,Female,White,Undergraduate degree,"£10,000 - £19,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,0,26.31645545
+17,75,cfq_avatar,avatar,cfq,25-34,Female,White,Undergraduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,Wayne_20240711,9,32.4848619
+18,53,cfq_classic,classic,cfq,25-34,Female,White,Graduate degree,"£30,000 - £39,999",At least once a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,0,12.777242366666666
+19,51,cfq_classic,classic,cfq,25-34,Female,White,Undergraduate degree,"£20,000 - £29,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,False,True,,0,24.24720795
+20,47,cfq_classic,classic,cfq,25-34,Male,White,Technical/community college,"£30,000 - £39,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,,0,38.9530161
+21,50,cfq_classic,classic,cfq,18-24,Female,White,High school diploma,"£0 - £9,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,1,39.663116550000005
+22,70,cfq_avatar,avatar,cfq,18-24,Male,Asian or Pacific Islander,Undergraduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat negative,Yes,Native or bilingual speaker,True,True,True,SilasHR_public,1,26.450269483333333
+23,58,bfi2s_avatar,avatar,bfi,25-34,Male,Black,Graduate degree,"£75,000 - £100,000",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,SilasHR_public,4,43.97718833333333
+24,56,bfi2s_classic,classic,bfi,25-34,Male,White,Graduate degree,"£50,000 - £74,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,False,True,,1,25.16795765
+25,63,cfq_classic,classic,cfq,18-24,Male,White,Technical/community college,"£0 - £9,999",At least once a day,Very positive,Yes,Native or bilingual speaker,True,True,True,,1,38.599764433333334
+26,76,cfq_avatar,avatar,cfq,18-24,Female,White,Undergraduate degree,"£10,000 - £19,999",At least once a day,Somewhat negative,Yes,Native or bilingual speaker,True,True,True,Wayne_20240711,1,36.56962635
+27,106,cfq_avatar,avatar,cfq,25-34,Female,White,High school diploma,"£30,000 - £39,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,SilasHR_public,0,34.50217851666666
+28,94,cfq_classic,classic,cfq,25-34,Female,White,Graduate degree,"£30,000 - £39,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,True,True,,0,20.10907645
+29,77,cfq_avatar,avatar,cfq,25-34,Male,Asian or Pacific Islander,Graduate degree,"£20,000 - £29,999",At least once a day,Neutral,Yes,Native or bilingual speaker,True,False,True,Shawn_Therapist_public,5,27.561642
+30,109,bfi2s_avatar,avatar,bfi,25-34,Male,Asian or Pacific Islander,Undergraduate degree,"£50,000 - £74,999",Multiple times a day,Somewhat positive,No,Native or bilingual speaker,True,True,True,June_HR_public,0,38.886604649999995
+31,129,cfq_avatar,avatar,cfq,35-44,Female,White,Undergraduate degree,"£50,000 - £74,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,Judy_Teacher_Sitting_public,34,66.81852773333334
+32,134,bfi2s_classic,classic,bfi,45-54,Male,White,Technical/community college,"£10,000 - £19,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,False,True,,0,33.79412661666667
+33,97,cfq_classic,classic,cfq,25-34,Male,White,Undergraduate degree,"£75,000 - £100,000",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,2,18.493415716666668
+34,101,cfq_classic,classic,cfq,25-34,Male,Asian or Pacific Islander,Undergraduate degree,"£20,000 - £29,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,True,True,,5,50.184434333333336
+35,92,bfi2s_avatar,avatar,bfi,25-34,Male,White,Graduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat negative,Yes,Native or bilingual speaker,True,True,True,Ann_Therapist_public,3,48.03677385
+36,120,bfi2s_avatar,avatar,bfi,35-44,Female,White,Graduate degree,"£50,000 - £74,999",Multiple times a day,Somewhat negative,Yes,Native or bilingual speaker,True,True,True,Shawn_Therapist_public,2,27.555208633333333
+37,114,bfi2s_avatar,avatar,bfi,25-34,Male,Asian or Pacific Islander,Graduate degree,"£30,000 - £39,999",Multiple times a day,Very positive,Yes,Advanced,True,True,True,June_HR_public,4,44.95269246666667
+38,113,bfi2s_classic,classic,bfi,35-44,Male,White,Graduate degree,"£20,000 - £29,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,,2,43.63513355
+39,88,bfi2s_classic,classic,bfi,25-34,Male,White,Graduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,False,True,,0,18.929017466666668
+40,103,cfq_classic,classic,cfq,25-34,Female,White,Secondary education,"£10,000 - £19,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,0,38.19412043333333
+41,90,bfi2s_classic,classic,bfi,25-34,Male,Hispanic or Latino/a/x,Graduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat positive,Yes,Advanced,True,True,True,,4,41.16585441666667
+42,156,bfi2s_avatar,avatar,bfi,55 and above,Male,White,Technical/community college,"£30,000 - £39,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,Ann_Therapist_public,1,40.942371333333334
+43,130,bfi2s_avatar,avatar,bfi,35-44,Female,White,Technical/community college,"£20,000 - £29,999",Multiple times a day,Very positive,No,Native or bilingual speaker,True,True,True,Ann_Therapist_public,18,63.18874685
+44,87,bfi2s_classic,classic,bfi,25-34,Female,Black,Graduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,False,True,,2,27.503032183333335
+45,98,cfq_avatar,avatar,cfq,25-34,Female,White,Graduate degree,"£30,000 - £39,999",At least once a day,Somewhat positive,Yes,Native or bilingual speaker,True,False,True,June_HR_public,11,30.166513166666668
+46,100,cfq_avatar,avatar,cfq,25-34,Male,White,High school diploma,"£0 - £9,999",Multiple times a day,Somewhat negative,Yes,Native or bilingual speaker,True,True,True,June_HR_public,0,25.780413816666666
+47,93,bfi2s_avatar,avatar,bfi,25-34,Female,White,Graduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,False,True,Ann_Therapist_public,1,32.4739453
+48,102,bfi2s_classic,classic,bfi,25-34,Female,Black,Graduate degree,"£20,000 - £29,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,True,True,,0,24.581400883333334
+49,95,bfi2s_avatar,avatar,bfi,25-34,Female,Black,Graduate degree,"£10,000 - £19,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,June_HR_public,10,45.14488866666667
+50,99,bfi2s_avatar,avatar,bfi,25-34,Female,White,Graduate degree,"£10,000 - £19,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,June_HR_public,3,40.5760864
+51,108,cfq_avatar,avatar,cfq,25-34,Female,White,High school diploma,"£0 - £9,999",Multiple times a day,Very positive,No,Native or bilingual speaker,True,True,True,June_HR_public,5,23.1119885
+52,105,bfi2s_avatar,avatar,bfi,25-34,Female,Middle Eastern or North African,Undergraduate degree,"£40,000 - £49,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,True,True,June_HR_public,12,35.065976983333336
+53,104,cfq_avatar,avatar,cfq,25-34,Male,Black,Undergraduate degree,"£30,000 - £39,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,False,False,Ann_Therapist_public,6,54.623189499999995
+54,116,cfq_classic,classic,cfq,35-44,Male,White,Undergraduate degree,"£50,000 - £74,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,0,28.596407733333333
+55,158,cfq_avatar,avatar,cfq,55 and above,Male,White,High school diploma,"£10,000 - £19,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,False,True,Ann_Therapist_public,1,36.84158858333333
+56,148,bfi2s_avatar,avatar,bfi,45-54,Female,White,Graduate degree,No income,Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,Judy_Teacher_Sitting_public,0,58.75145508333333
+57,157,bfi2s_classic,classic,bfi,55 and above,Male,White,Secondary education,"£30,000 - £39,999",At least once a day,Somewhat positive,Yes,Native or bilingual speaker,True,False,True,,1,48.37712245
+58,161,cfq_classic,classic,cfq,55 and above,Male,White,Undergraduate degree,"£0 - £9,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,0,53.24919571666667
+59,117,cfq_avatar,avatar,cfq,35-44,Male,White,Undergraduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,SilasHR_public,2,57.683689433333335
+60,142,cfq_avatar,avatar,cfq,35-44,Female,White,Technical/community college,"£10,000 - £19,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,June_HR_public,3,27.4414137
+61,147,cfq_avatar,avatar,cfq,45-54,Female,White,High school diploma,"£20,000 - £29,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,June_HR_public,0,33.731181283333335
+62,119,cfq_classic,classic,cfq,35-44,Female,Other,Undergraduate degree,"£40,000 - £49,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,,0,25.941679433333334
+63,122,cfq_classic,classic,cfq,35-44,Female,White,Doctoral degree,"£30,000 - £39,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,True,True,,0,26.540687233333333
+64,121,cfq_classic,classic,cfq,35-44,Male,White,Undergraduate degree,"£20,000 - £29,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,2,20.942717066666667
+65,124,bfi2s_classic,classic,bfi,35-44,Female,White,High school diploma,"£10,000 - £19,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,0,29.321352533333332
+66,140,cfq_avatar,avatar,cfq,45-54,Male,White,Undergraduate degree,"£50,000 - £74,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,False,True,Ann_Therapist_public,0,24.60087963333333
+67,115,bfi2s_classic,classic,bfi,35-44,Male,White,High school diploma,"£20,000 - £29,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,0,49.69990816666667
+68,123,bfi2s_avatar,avatar,bfi,35-44,Male,White,Technical/community college,"£40,000 - £49,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,False,True,June_HR_public,1,38.431536066666666
+69,127,bfi2s_classic,classic,bfi,35-44,Female,Asian or Pacific Islander,Doctoral degree,"£50,000 - £74,999",Multiple times a day,Somewhat positive,Yes,Intermediate,True,True,True,,0,25.640180983333334
+70,138,cfq_avatar,avatar,cfq,35-44,Male,White,Undergraduate degree,"£40,000 - £49,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,Shawn_Therapist_public,3,24.57632956666667
+71,145,cfq_avatar,avatar,cfq,35-44,Female,White,Secondary education,"£0 - £9,999",At least once a day,Neutral,Yes,Native or bilingual speaker,True,True,True,June_HR_public,1,35.96296635
+72,128,bfi2s_classic,classic,bfi,35-44,Female,White,Graduate degree,"£50,000 - £74,999",Multiple times a day,Very positive,Yes,Native or bilingual speaker,True,True,True,,0,51.7116979
+73,126,cfq_classic,classic,cfq,35-44,Female,White,Undergraduate degree,"£40,000 - £49,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,0,26.524249333333334
+74,137,cfq_classic,classic,cfq,45-54,Male,Asian or Pacific Islander,Undergraduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat negative,Yes,Native or bilingual speaker,True,True,True,,2,34.11852905
+75,135,bfi2s_classic,classic,bfi,45-54,Female,White,Secondary education,"£10,000 - £19,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,,1,68.0250096
+76,125,bfi2s_avatar,avatar,bfi,35-44,Female,White,High school diploma,"£0 - £9,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,True,True,June_HR_public,0,31.289224433333334
+77,136,bfi2s_avatar,avatar,bfi,45-54,Male,White,Undergraduate degree,"£20,000 - £29,999",At least once a day,Neutral,Yes,Native or bilingual speaker,True,False,True,SilasHR_public,4,38.748054583333335
+78,160,bfi2s_avatar,avatar,bfi,18-24,Male,Asian or Pacific Islander,Undergraduate degree,"£30,000 - £39,999",Multiple times a day,Somewhat positive,Yes,Native or bilingual speaker,True,True,True,Ann_Therapist_public,3,31.5929693
+79,141,cfq_classic,classic,cfq,45-54,Female,White,Undergraduate degree,"£0 - £9,999",Multiple times a day,Neutral,Yes,Native or bilingual speaker,True,True,True,,0,59.904112850000004
