@@ -2,11 +2,26 @@
 
 ## About
 
-This repository supports the research paper titled *"Talking Surveys: How Photorealistic Embodied Conversational Agents Shape Response Quality, Engagement, and Satisfaction"*. This research explores how using AI-driven virtual avatars in surveys-compared to standard chatbots-affects participant engagement, satisfaction, and response quality.
+This repository supports the research paper titled [*"Talking Surveys: How Photorealistic Embodied Conversational Agents Shape Response Quality, Engagement, and Satisfaction"*](https://doi.org/10.3758/s13428-026-03091-0). This research explores how using AI-driven virtual avatars in surveys-compared to standard chatbots-affects participant engagement, satisfaction, and response quality.
 
 ### Paper Citation
 
-Not published yet.
+```bibtex
+@Article{Krajcovic2026,
+author={Krajcovic, Matus and Demcak, Peter and Kuric, Eduard},
+title={Talking surveys: How photorealistic embodied conversational agents shape response quality, engagement, and satisfaction},
+journal={Behavior Research Methods},
+year={2026},
+month={Jun},
+day={29},
+volume={58},
+number={8},
+pages={212},
+issn={1554-3528},
+doi={10.3758/s13428-026-03091-0},
+url={https://doi.org/10.3758/s13428-026-03091-0}
+}
+```
 
 ### Contents
 
